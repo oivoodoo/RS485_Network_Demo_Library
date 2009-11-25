@@ -1,0 +1,10 @@
+C:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\obj\Debug\ResolveAssemblyReference.cache
+c:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\bin\Debug\VooTerminalTest.exe
+c:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\bin\Debug\VooTerminalTest.pdb
+c:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\bin\Debug\log4net.dll
+c:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\bin\Debug\log4net.xml
+c:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\obj\Debug\VooTerminalTest.exe
+c:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\obj\Debug\VooTerminalTest.pdb
+c:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\bin\Debug\Voodoo.Libraries.dll
+c:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\bin\Debug\Voodoo.Libraries.pdb
+c:\university\vksis(кольцевая структура)1\RS485_2\VooTerminalTest\bin\Debug\VooTerminalTest.exe.config

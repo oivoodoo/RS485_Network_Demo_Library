@@ -1,0 +1,41 @@
+E:\university\вксис\RS485_2\test\obj\Debug\test.exe
+E:\university\вксис\RS485_2\test\obj\Debug\test.pdb
+E:\university\вксис\RS485_2\test\bin\Debug\test.exe
+E:\university\вксис\RS485_2\test\bin\Debug\test.pdb
+E:\university\вксис\RS485_2\test\bin\Debug\RS485_dll.dll
+E:\university\вксис\RS485_2\test\bin\Debug\RS485_dll.pdb
+E:\university\вксис\RS485_2\test\obj\Debug\ResolveAssemblyReference.cache
+F:\university\вксис\laba1\RS485_2\test\obj\Debug\test.exe
+F:\university\вксис\laba1\RS485_2\test\obj\Debug\test.pdb
+F:\university\вксис\laba1\RS485_2\test\bin\Debug\test.exe
+F:\university\вксис\laba1\RS485_2\test\bin\Debug\test.pdb
+F:\university\вксис\laba1\RS485_2\test\bin\Debug\RS485_dll.dll
+F:\university\вксис\laba1\RS485_2\test\bin\Debug\RS485_dll.pdb
+F:\university\вксис\laba1\RS485_2\test\obj\Debug\ResolveAssemblyReference.cache
+C:\university\laba1\RS485_2\test\obj\Debug\test.exe
+C:\university\laba1\RS485_2\test\obj\Debug\test.pdb
+C:\university\laba1\RS485_2\test\bin\Debug\test.exe
+C:\university\laba1\RS485_2\test\bin\Debug\test.pdb
+C:\university\laba1\RS485_2\test\bin\Debug\RS485_dll.dll
+C:\university\laba1\RS485_2\test\bin\Debug\RS485_dll.pdb
+C:\university\laba1\RS485_2\test\obj\Debug\ResolveAssemblyReference.cache
+F:\university\vksis для сдачи\RS485_2\test\obj\Debug\test.exe
+F:\university\vksis для сдачи\RS485_2\test\obj\Debug\test.pdb
+C:\university\vksis(кольцевая структура)1\RS485_2\test\obj\Debug\test.exe
+C:\university\vksis(кольцевая структура)1\RS485_2\test\obj\Debug\test.pdb
+C:\university\vksis(кольцевая структура)1\RS485_2\test\obj\Debug\ResolveAssemblyReference.cache
+c:\university\vksis(кольцевая структура)1\RS485_2\test\bin\Debug\test.exe
+c:\university\vksis(кольцевая структура)1\RS485_2\test\bin\Debug\test.pdb
+c:\university\vksis(кольцевая структура)1\RS485_2\test\bin\Debug\Voodoo.Libraries.dll
+c:\university\vksis(кольцевая структура)1\RS485_2\test\bin\Debug\log4net.dll
+c:\university\vksis(кольцевая структура)1\RS485_2\test\bin\Debug\log4net.xml
+c:\university\vksis(кольцевая структура)1\RS485_2\test\bin\Debug\Voodoo.Libraries.pdb
+C:\university\3_4\RS485_2\test\obj\Debug\test.exe
+C:\university\3_4\RS485_2\test\obj\Debug\test.pdb
+C:\university\3_4\RS485_2\test\bin\Debug\test.exe
+C:\university\3_4\RS485_2\test\bin\Debug\test.pdb
+C:\university\3_4\RS485_2\test\bin\Debug\Voodoo.Libraries.dll
+C:\university\3_4\RS485_2\test\bin\Debug\log4net.dll
+C:\university\3_4\RS485_2\test\bin\Debug\log4net.xml
+C:\university\3_4\RS485_2\test\bin\Debug\Voodoo.Libraries.pdb
+C:\university\3_4\RS485_2\test\obj\Debug\ResolveAssemblyReference.cache

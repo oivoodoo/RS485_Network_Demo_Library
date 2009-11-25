@@ -1,0 +1,82 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@">
+      <Item value="Start" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:string">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Voodoo">
+      <Item value="CodeHaminga" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Voodoo.CodeHaminga.CodeHaminga">
+      <Item value="EncodeData" priority="0" />
+      <Item value="DecodeData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Voodoo.Libraries.RS485Library.RS485Events">
+      <Item value="Output" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Voodoo.Libraries.RS485Library.RS485Events+OutputType">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Voodoo.Libraries.RS485Library.RS485Events+DestinationType">
+      <Item value="None" priority="0" />
+      <Item value="ServerPacket" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="D55EB416-DD92-425F-BD80-A2CDB16E77BE/d:Voodoo/d:Libraries/d:RS485Library/f:RS485Client.cs" caret="655" scrollPosition="0|0" />
+      <File id="D55EB416-DD92-425F-BD80-A2CDB16E77BE/d:Voodoo/d:Libraries/d:RS485Library/d:Helpers/f:RS485Constants.cs" caret="196" scrollPosition="0|0" />
+      <File id="D55EB416-DD92-425F-BD80-A2CDB16E77BE/d:Voodoo/d:Libraries/d:RS485Library/f:RS485PacketClient.cs" caret="557" scrollPosition="0|0" />
+      <File id="4937EA4C-B0E9-4716-BD46-A146C9999112/f:Program.cs" caret="959" scrollPosition="0|0" />
+      <File id="D1497826-D413-4EAE-8B08-A1A0E5C19185/f:Program.cs" caret="197" scrollPosition="0|0" />
+      <File id="D1497826-D413-4EAE-8B08-A1A0E5C19185/d:Voodoo/f:CodeHaminga.cs" caret="2479" scrollPosition="0|52" />
+      <File id="46B84203-CCB2-4120-ACA6-02E0ECC96B9D/f:Program.cs" caret="2769" scrollPosition="0|46" />
+      <File id="5A55095E-89E2-4E4F-A169-AE1C875FA4D8/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="D55EB416-DD92-425F-BD80-A2CDB16E77BE/d:Voodoo/d:Libraries/d:RS485Library/d:Models/f:RS485.cs" caret="0" scrollPosition="0|0" />
+      <File id="D55EB416-DD92-425F-BD80-A2CDB16E77BE/d:Voodoo/d:Libraries/d:RS485Library/f:RS485Server.cs" caret="1060" scrollPosition="0|8" />
+      <File id="D55EB416-DD92-425F-BD80-A2CDB16E77BE/d:Voodoo/d:Libraries/d:RS485Library/f:RS485PacketManager.cs" caret="114" scrollPosition="0|0" />
+      <File id="D55EB416-DD92-425F-BD80-A2CDB16E77BE/d:Voodoo/d:Libraries/d:RS485Library/f:RS485PacketServer.cs" caret="276" scrollPosition="0|0" />
+      <File id="D55EB416-DD92-425F-BD80-A2CDB16E77BE/d:Voodoo/d:Libraries/d:RS485Library/f:RS485Packet.cs" caret="419" scrollPosition="0|15" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <Providers />
+  </UnitTestRunner>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

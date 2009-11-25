@@ -1,0 +1,9 @@
+C:\university\3_4\RS485_2\Voo\bin\Debug\Voo.exe
+C:\university\3_4\RS485_2\Voo\bin\Debug\Voo.pdb
+C:\university\3_4\RS485_2\Voo\bin\Debug\Voodoo.Libraries.dll
+C:\university\3_4\RS485_2\Voo\bin\Debug\log4net.dll
+C:\university\3_4\RS485_2\Voo\bin\Debug\Voodoo.Libraries.pdb
+C:\university\3_4\RS485_2\Voo\bin\Debug\log4net.xml
+C:\university\3_4\RS485_2\Voo\obj\Debug\ResolveAssemblyReference.cache
+C:\university\3_4\RS485_2\Voo\obj\Debug\Voo.exe
+C:\university\3_4\RS485_2\Voo\obj\Debug\Voo.pdb
